@@ -1,0 +1,39 @@
+body {
+  background: url('../images/background.jpg');
+  overflow-x: hidden;
+}
+
+
+.fsh-text-center {
+  text-align: center;
+}
+
+.fsh-main-content {
+  padding: 20px;
+  background: url("../images/main.jpg");
+  background-size:100% 100%; 
+  color: white;
+  height: 60%;
+  opacity: 0.8;
+}
+
+.fsh-white-text {
+  color: white;
+}
+
+.fsh-large-text {
+  font-size: 30px;
+}
+
+.fsh-medium-text {
+  font-size: 20px;
+}
+
+.fsh-opacity {
+  opacity: 0.8;
+}
+
+.fsh-icon{
+  width: 80px;
+  height: 80px;
+}
