@@ -3,6 +3,9 @@ body {
   overflow-x: hidden;
 }
 
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .fsh-text-center {
   text-align: center;
@@ -36,4 +39,17 @@ body {
 .fsh-icon{
   width: 80px;
   height: 80px;
+}
+
+.fsh-bullet-points {
+  list-style-type: disc !important;
+  padding-left:1em !important;
+  margin-left:1em;
+  text-align: start;
+  width: auto;
+}
+
+.fsh-on-hover-resize{
+  z-index: 9999999;
+  position: relative;
 }
